@@ -28,7 +28,7 @@ Generic_nRF52805.name=Generic nRF52805
 
 Generic_nRF52805.upload.tool=sandeepmistry:openocd
 Generic_nRF52805.upload.target=nrf52
-Generic_nRF52805.upload.maximum_size=192000
+Generic_nRF52805.upload.maximum_size=196608
 
 Generic_nRF52805.bootloader.tool=sandeepmistry:openocd
 
