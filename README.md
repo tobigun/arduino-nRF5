@@ -83,6 +83,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 ### nRF52833
  * [BBC micro:bit v2](https://microbit.org/new-microbit/)
  * [Calliope mini V3](https://calliope.cc/calliope-mini-3)
+
 ### nRF52
  * [Plain nRF52 MCU](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52832)
  * [Nordic Semiconductor nRF52 DK](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52-DK)
@@ -170,7 +171,7 @@ The SD consumes ~5k of Ram + some extra based on actual BLE configuration.
 * SoftDevice S130 v2.0.1 supports Revision 3 of nRF51 in peripheral and central role. It is 108k in size.
 * SoftDevice S132 v2.0.1 supports nRF52 in peripheral and central role. It is 112k in size.
 
-### Flashing a SoftDevice
+### Flashing a SoftDevice (IDE 1.8.x only)
 
  1. ```cd <SKETCHBOOK>```, where ```<SKETCHBOOK>``` is your Arduino Sketch folder:
   * OS X: ```~/Documents/Arduino```
