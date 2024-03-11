@@ -11,6 +11,6 @@
   "license": "LGPL-2.1-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/arduino-nRF5"
+    "url": "https://github.com/tobigun/arduino-nRF5"
   }
 }
